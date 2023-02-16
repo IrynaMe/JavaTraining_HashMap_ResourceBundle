@@ -1,0 +1,5 @@
+# JavaTraining_HashMap_ResourceBundle
+1 Create a ResourceBundle that maps the names of fruits to their prices per kg.
+2 Add at least five fruits and their prices to the ResourceBundle.
+3 Create a HashMap that maps fruits with discount.
+4 Write a method that uses to display the prices of the fruits with discount.
